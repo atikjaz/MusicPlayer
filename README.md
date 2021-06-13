@@ -14,7 +14,7 @@ License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/atikjaz/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atikjaz/MusicPlayer)
 
 
 ### Deploy to VPS
